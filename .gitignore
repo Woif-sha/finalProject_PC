@@ -1,8 +1,12 @@
 # Byte-compiled / optimized / DLL files
+<<<<<<< HEAD
 /.idea/
 /__pycache__/
 /vosk-model-cn-0.22/
 vosk-model-cn-0.22.zip
+=======
+__pycache__/
+>>>>>>> 010a4f579778719ffe27c392abf1fd2ba054677b
 *.py[cod]
 *$py.class
 
